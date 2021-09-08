@@ -1,0 +1,24 @@
+/* Tekrarlanan kodlar */
+
+.icon {
+    display: flex;
+    justify-content: center;
+    font-size: 50px;
+    color: #47D6CC;
+
+}
+
+.icon:hover {
+    font-size: 60px;
+}
+
+.slide-buttons {
+    width: 160px;
+    height: 50px;
+    /* font-size: 3.5rem; */
+    display: inline-block;
+    padding: 15px 35px;
+    position: relative;
+    background-color: #01C5B9;
+    font-family: 'Space Mono', monospace
+}
